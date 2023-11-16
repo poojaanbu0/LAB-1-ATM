@@ -16,8 +16,6 @@ to withdraw money,deposit.
 #### Class Diagram:
 ![image](https://github.com/Prajeeth17/LAB-1-ATM/assets/120513885/26aeb8dd-dbb0-46d8-a7a9-40e3f4d4c295)
 
-#### State Chart Diagram:
-![image](https://github.com/Prajeeth17/LAB-1-ATM/assets/120513885/3143d194-507b-40b8-8119-8fd9b7f317d4)
 
 #### Activity Diagram:
 ![acti](https://github.com/Prajeeth17/LAB-1-ATM/assets/120513885/95240058-b73c-4db2-91ff-6e69d1d0610b)
